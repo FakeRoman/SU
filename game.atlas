@@ -1,0 +1,104 @@
+
+game.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Soviet Union
+  rotate: false
+  xy: 920, 709
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/1GsVcA
+  rotate: false
+  xy: 4, 409
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Bolshevik
+  rotate: false
+  xy: 4, 4
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gvardiya
+  rotate: false
+  xy: 212, 212
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Prizyvniki
+  rotate: false
+  xy: 428, 320
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Strelki
+  rotate: false
+  xy: 812, 512
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/T-72
+  rotate: false
+  xy: 320, 301
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bolshevik
+  rotate: false
+  xy: 4, 93
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gvardiya
+  rotate: false
+  xy: 212, 301
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Prizyvniki
+  rotate: false
+  xy: 812, 709
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Strelki
+  rotate: false
+  xy: 812, 817
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+UnitIcons/T-34
+  rotate: false
+  xy: 4, 201
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/T-72
+  rotate: false
+  xy: 812, 601
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/VDV
+  rotate: false
+  xy: 920, 601
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
